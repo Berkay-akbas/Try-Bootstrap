@@ -1,0 +1,15 @@
+$mycolor: #344563;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+
+body {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+
+.nav-item {
+  a {color: $mycolor;}
+}
